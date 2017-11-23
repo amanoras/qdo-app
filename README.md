@@ -1,6 +1,6 @@
-# Quasar App
+# QDo App
 
-> A Quasar project
+> A simple mobile Todo app built using Vue and Quasar.
 
 ## Build Setup
 
