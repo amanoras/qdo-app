@@ -2,7 +2,6 @@
   <q-tabs>
     <q-tab default slot="title" name="todo" icon="assignment" label="To Do"/>
     <q-tab slot="title" name="done" icon="assignment_turned_in" label="Done" />
-    <q-tab slot="title" name="all" icon="assignment" label="All"/>
     
     <q-tab-pane name="todo">
       <todo-list filter='todo' />
